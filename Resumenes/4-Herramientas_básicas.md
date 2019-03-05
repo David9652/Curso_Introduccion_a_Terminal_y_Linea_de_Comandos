@@ -4,7 +4,7 @@
 
 * Abrir un archivo.
 
-* **open [archivo] ** &rarr; `$open ejercicio.js`
+* **open [archivo]** &rarr; `$open ejercicio.js`
 
 ## more 
 
