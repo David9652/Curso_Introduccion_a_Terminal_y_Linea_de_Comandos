@@ -6,7 +6,7 @@
 
 * Ejecuta una serie de comandos preestablecidos por el usuario, funciona para crear variables.
 
-* **alias [nombre_alias=serie_de_comandos] ** &rarr; `$alias p="pwd"`
+* **alias [nombre_alias=serie_de_comandos]** &rarr; `$alias p="pwd"`
 
 ## unalias
 
