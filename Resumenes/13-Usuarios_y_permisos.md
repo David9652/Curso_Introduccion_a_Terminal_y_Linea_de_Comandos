@@ -54,7 +54,7 @@ drwxr-xr-x 1 david 197609    0 Jan 12 18:30  Favorites/
 
 * 666 &rarr; rw-rw-rw-
 
-* 750 &rarr; rwxr-x---`
+* 750 &rarr; rwxr-x---
 
 ## Cambiar permisos
 
@@ -138,8 +138,6 @@ iliss: Nombre del usuario.
 * Es algo especifico de MacOS, indica que el archivo tiene atributos extendidos. 
 
 `-rw-r–r--@`
-
-
 
 ### ¿Qué significa cuando un archivo tiene al lado de su nombre ~?
 
